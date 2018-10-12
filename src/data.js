@@ -1,14 +1,13 @@
 var data = {
   header: {
-    firstName: "Youssef",
-    lastName: "SAFI",
-    dateofB: "19th-Feb-1995",
-    placeofB: "Sidi Slimane",
-    email: "youssef.safi.95@gmail.com",
-    phone: "(+212) 07 70 98 29 00",
-    address: "DR JBIRET LOUED BP 529, SIDI SLIMANE, MOROCCO, 14 200.",
+    firstName: "Mariem",
+    lastName: "CHEHAIMA",
+    dateofB: "24th-ap-1994",
+    placeofB: "Casablanca",
+    email: "mariemchehaima@gmail.com",
+    phone: "(+212) 06 37 59 97 81",
+    address: "Hay Hassani bloc 2, Casablanca, MOROCCO, 20 230",
     permis: "Driving Licence - B",
-    github: "SafiYoussef",
     avatar: "./img/picture.png"
   },
   sections: [
@@ -18,27 +17,27 @@ var data = {
       title: "SKILLS",
       content: [
         {
-          label: "Laravel 5",
+          label: "Network Security",
           score: 80
         },
         {
-          label: "Bootstap 4",
+          label: "Operating Systems",
           score: 70
         },
         {
-          label: "JavaScript",
+          label: "Pentesting",
           score: 85
         },
         {
-          label: "ReactJS",
+          label: "Telecommunications",
           score: 55
         },
         {
-          label: "NodeJS",
+          label: "Python",
           score: 30
         },
         {
-          label: "Java",
+          label: "PHP",
           score: 60
         },
         {
@@ -50,7 +49,7 @@ var data = {
           score: 55
         },
         {
-          label: "Android",
+          label: "VB.net",
           score: 80
         },
         {
@@ -58,19 +57,19 @@ var data = {
           score: 65
         },
         {
-          label: "Forensics",
+          label: "Firewalls",
           score: 75
         },
         {
-          label: "Java EE",
+          label: "Cryptography",
           score: 60
         },
         {
-          label: "Photoshop",
+          label: "Electronics",
           score: 70
         },
         {
-          label: "UML / Merise",
+          label: "IPS IDS",
           score: 65
         }
       ]
@@ -91,21 +90,15 @@ var data = {
           degree: "Bachelor",
           deration: "2015-2016",
           description:
-            "Bachelor Degree in Information Systems and Software Engineering",
-          at: "Faculty of Sciences Dhar El Mahraz - Fez"
+            "Bachelor Degree in Network and Telecommunications",
+          at: "Faculty of Sciences Moulay Ismail - Meknes"
         },
         {
           degree: "University Degree of Technology",
           deration: "2013-2015",
-          description: "U.D.T Degree in Administration of Network Systems",
-          at: "Superior School of Technology - Safi"
+          description: "U.D.T Degree in Network and Telecommunications",
+          at: "Superior School of Technology - Fez"
         },
-        {
-          degree: "High School",
-          deration: "2015-2016",
-          description: "High School Degree in Mathematical Sciences (option A)",
-          at: "Amir My Abdallah High School - Sidi Slimane"
-        }
       ]
     },
     {
@@ -114,30 +107,26 @@ var data = {
       type: "exp",
       content: [
         {
-          title: "18-03-2018 to 18-05-2018 (2 Months)",
-          description: "Internship in Security at ILEM GROUP - Casablanca"
+          title: "20-02-2018 to 20-08-2018 ",
+          description: "Graduate Technical Intern at System Engineering Laboratory at ENSA - Kénitra"
         },
         {
-          title: "20-02-2018 to 20-08-2018 (6 Months)",
+          title: "28-09-2017 to 20-01-2018 ",
           description:
-            "Internship of Initiation to Scientific Research at ENSA - Kénitra"
+            "Graduate Research Intern at ODTU - ANKARA Turkey"
         },
         {
-          title: "18-09-2016 to 25-07-2018 (1 Y. & 11 M.)",
-          description: "Freelance Web Developer at HCH Professionals - Online"
+          title: "18-04-2016 to 18-06-2016 ",
+          description: "Student Internship at ONEE - Casablanca"
         },
         {
-          title: "20-04-2016 to 20-06-2016 (2 Months)",
-          description: "End-of-Study Internship at HOW - Rabat"
+          title: "20-04-2015 to 20-06-2015 ",
+          description: "Student Internship at OCP - Khouribga"
         },
         {
-          title: "20-04-2015 to 13-06-2015 (2 Months)",
-          description: "End-of-Study Internship at CompInfo - Kénitra"
+          title: "20-08-2014 to 20-09-2014 ",
+          description: "Student Internship at Prefecture of Ain Sebaa - Casablanca"
         },
-        {
-          title: "01-07-2014 to 30-09-2014 (2 Months)",
-          description: "Introductory Internship at Certifia - Rabat"
-        }
       ]
     },
     {
@@ -146,33 +135,29 @@ var data = {
       title: "PROJECTS",
       content: [
         {
-          title: "Automation of Security Reports",
-          description: "Laravel 5, WAF Log files, Linux Bash Scripting"
+          title: "Contribution to the Protection Project against internal and external attacks",
+          description: "Python 3, Logserver, Firewalls,Ubuntu,IDS IPS"
         },
         {
-          title: "Image Processing App",
-          description: "Android, OpenCV"
+          title: "Acceleration of DPDK packets on FreeBSD",
+          description: "FreeBSD, Operating System Security"
         },
         {
           title:
-            "Creation of an education platform and integration of BigBlueButton",
+            "Power supply failure problem on a DR3000 relay station",
           description:
-            "Bootstrap, JSF, Spring DI, PrettyFaces, BigBlueButton, Hibernate"
+            "Relay station,Antenna transmission "
         },
         {
           title:
-            "Creation of a portal for the Scientific Local Council of Sidi Slimane",
-          description: "Bootstrap, Wordpress"
+            "Mass deployment of operating systems by the RIS service on Windows server 2003 and WDS on WS2008",
+          description: "WS2008, WS2003 "
         },
         {
           title:
-            "Seeting up a portal for Kénitra's Directorate of the Ministry of Culture",
-          description: "PHP, Bootstrap, Ajax"
+            "Deployment of a website made with ASP.net and MSQL Server, with the configuration of an ASA5505 firewall and a Cisco router",
+          description: "Firewall, ASP.net , MSQL Server"
         },
-        {
-          title: "Website Creation for Safi's Superior School of Technology",
-          description: "PHP, Bootstrap, Ajax"
-        }
       ]
     },
     {
@@ -186,7 +171,7 @@ var data = {
         },
         {
           lang: "French",
-          level: 3
+          level: 4
         },
         {
           lang: "English",
@@ -201,7 +186,7 @@ var data = {
       content: [
         {
           imgUrl: "./img/it-security.png",
-          title: "IT Security"
+          title: "Movies"
         },
         {
           imgUrl: "./img/music.png",
