@@ -62,12 +62,6 @@ class Header extends Component {
                   </span>
                   <div className="col">{this.props.permis}</div>
                 </li>
-                <li className="row">
-                  <span className="col-1 text-center">
-                    <FontAwesomeIcon icon={faGithub} />
-                  </span>
-                  <div className="col"><a href={'https://github.com/'+this.props.github} target="_blank">@{this.props.github}</a></div>
-                </li>
               </ul>
             </div>
           </div>
