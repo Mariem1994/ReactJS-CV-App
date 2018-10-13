@@ -8,6 +8,7 @@ var data = {
     phone: "(+212) 06 37 59 97 81",
     address: "Hay Hassani bloc 2, Casablanca, MOROCCO, 20 230",
     permis: "Driving Licence - B",
+	github: "https://github.com/Mariem1994",
     avatar: "./img/picture.png"
   },
   sections: [
