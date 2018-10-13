@@ -186,7 +186,7 @@ var data = {
       content: [
         {
           imgUrl: "./img/it-security.png",
-          title: "Movies"
+          title: "IT Security"
         },
         {
           imgUrl: "./img/music.png",
