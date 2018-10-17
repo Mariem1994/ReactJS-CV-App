@@ -41,12 +41,24 @@ var data = {
           label: "Linux/Unix",
           score: 60
         },
+		{
+          label: "Cryptography",
+          score: 60
+        },
+        {
+          label: "Firewalls",
+          score: 80
+        },
+        {
+          label: "Network Administration",
+          score: 75
+        }
         {
           label: "C",
           score: 70
         },
         {
-          label: "C++",
+          label: "Python 3",
           score: 55
         },
         {
@@ -61,18 +73,6 @@ var data = {
           label: "SQL",
           score: 75
         },
-        {
-          label: "Cryptography",
-          score: 60
-        },
-        {
-          label: "Firewalls",
-          score: 80
-        },
-        {
-          label: "Network Administration",
-          score: 75
-        }
       ]
     },
     {
