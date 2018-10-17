@@ -31,11 +31,11 @@ var data = {
         },
         {
           label: "Telecommunications",
-          score: 55
+          score: 85
         },
         {
           label: "Electronics",
-          score: 30
+          score: 66
         },
         {
           label: "Linux/Unix",
@@ -67,11 +67,11 @@ var data = {
         },
         {
           label: "Firewalls",
-          score: 70
+          score: 80
         },
         {
           label: "Network Administration",
-          score: 65
+          score: 75
         }
       ]
     },
