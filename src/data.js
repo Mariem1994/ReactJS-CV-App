@@ -34,11 +34,11 @@ var data = {
           score: 55
         },
         {
-          label: "Python",
+          label: "Electronics",
           score: 30
         },
         {
-          label: "PHP",
+          label: "Linux/Unix",
           score: 60
         },
         {
@@ -54,11 +54,11 @@ var data = {
           score: 80
         },
         {
-          label: "Linux/Unix",
+          label: "IPV6",
           score: 65
         },
         {
-          label: "Firewalls",
+          label: "SQL",
           score: 75
         },
         {
@@ -66,11 +66,11 @@ var data = {
           score: 60
         },
         {
-          label: "Electronics",
+          label: "Firewalls",
           score: 70
         },
         {
-          label: "IPS IDS",
+          label: "Network Administration",
           score: 65
         }
       ]
@@ -84,21 +84,15 @@ var data = {
           degree: "Master",
           deration: "2016-2018",
           description:
-            "2nd year Student Researcher in Security of Information Systems",
+            "Security of Information Systems and Network",
           at: "National School of Applied Sciences - Kénitra"
         },
         {
           degree: "Bachelor",
-          deration: "2015-2016",
+          deration: "2013-2016",
           description:
-            "Bachelor Degree in Network and Telecommunications",
+            "Bachelor Degree in Networks and Telecommunications",
           at: "Faculty of Sciences Moulay Ismail - Meknes"
-        },
-        {
-          degree: "University Degree of Technology",
-          deration: "2013-2015",
-          description: "U.D.T Degree in Network and Telecommunications",
-          at: "Superior School of Technology - Fez"
         },
       ]
     },
@@ -117,11 +111,11 @@ var data = {
             "Graduate Research Intern at ODTU - ANKARA Turkey"
         },
         {
-          title: "18-04-2016 to 18-06-2016 ",
+          title: "18-04-2016 to 18-07-2016 ",
           description: "Student Internship at ONEE - Casablanca"
         },
         {
-          title: "20-04-2015 to 20-06-2015 ",
+          title: "20-04-2015 to 20-07-2015 ",
           description: "Student Internship at OCP - Khouribga"
         },
         {
@@ -136,7 +130,7 @@ var data = {
       title: "PROJECTS",
       content: [
         {
-          title: "Contribution to the Protection Project against internal and external attacks",
+          title: "Project against internal and external attacks",
           description: "Python 3, Logserver, Firewalls,Ubuntu,IDS IPS"
         },
         {
@@ -147,7 +141,7 @@ var data = {
           title:
             "Power supply failure problem on a DR3000 relay station",
           description:
-            "Relay station,Antenna transmission "
+            "Relay station,Antenna transmission,Radio "
         },
         {
           title:
@@ -156,8 +150,8 @@ var data = {
         },
         {
           title:
-            "Deployment of a website made with ASP.net and MSQL Server, with the configuration of an ASA5505 firewall and a Cisco router",
-          description: "Firewall, ASP.net , MSQL Server"
+            "Deployment of a website made with ASP.net and MSQL Server ",
+          description: "ASP.net , MSQL Server"
         },
       ]
     },
