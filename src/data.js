@@ -52,7 +52,7 @@ var data = {
         {
           label: "Network Administration",
           score: 75
-        }
+        },
         {
           label: "C",
           score: 70
