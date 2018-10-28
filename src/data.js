@@ -7,7 +7,6 @@ var data = {
     email: "mariemchehaima@gmail.com",
     phone: "(+212) 06 37 59 97 81",
     address: "Hay Hassani bloc 2, Casablanca, MOROCCO, 20 230",
-    permis: "Driving Licence - B",
 	github: "@Mariem1994",
     avatar: "./img/picture.png"
   },
@@ -22,7 +21,7 @@ var data = {
           score: 80
         },
         {
-          label: "Operating Systems",
+          label: "Operating Systems Security",
           score: 70
         },
         {
@@ -30,44 +29,48 @@ var data = {
           score: 85
         },
         {
+          label: "Python ",
+          score: 65
+        },
+        {
+          label: "Linux/Unix",
+          score: 66
+        },
+        {
+          label: "Cryptography",
+          score: 60
+        },
+		{
+          label: "Firewalls",
+          score: 75
+        },
+        {
+          label: "Network Administration",
+          score: 90
+        },
+        {
+          label: "C ",
+          score: 65
+        },
+		{
+          label: "IPV6 ",
+          score: 55
+        },
+		{
+          label: "IPV4",
+          score: 95
+        },
+        {
+          label: "Electronics ",
+          score: 60
+        },
+        {
           label: "Telecommunications",
           score: 85
         },
         {
-          label: "Electronics",
-          score: 66
-        },
-        {
-          label: "Linux/Unix",
-          score: 60
-        },
-		{
-          label: "Cryptography",
-          score: 60
-        },
-        {
-          label: "Firewalls",
+          label: "PHP",
           score: 80
-        },
-        {
-          label: "Network Administration",
-          score: 75
-        },
-        {
-          label: "C",
-          score: 70
-        },
-        {
-          label: "Python 3",
-          score: 55
-        },
-        {
-          label: "VB.net",
-          score: 80
-        },
-        {
-          label: "IPV6",
-          score: 65
         },
         {
           label: "SQL",
@@ -80,6 +83,13 @@ var data = {
       type: "edu",
       title: "EDUCATION",
       content: [
+	  {
+          degree: "Master",
+          deration: "2017-2018",
+          description:
+            "Cyber Security",
+          at: "ODTU-Ankara Turkey"
+        },
         {
           degree: "Master",
           deration: "2016-2018",
