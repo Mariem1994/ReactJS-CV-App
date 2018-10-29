@@ -2,11 +2,11 @@ var data = {
   header: {
     firstName: "Mariem",
     lastName: "CHEHAIMA",
-    dateofB: "Graduate Cyber Security",
+    dateofB: "24-04-1994 Settat",
     email: "mariemchehaima@gmail.com",
     phone: "(+212) 06 37 59 97 81",
     address: "Hay Hassani bloc 2, Casablanca, MOROCCO, 20 230",
-	github: "@Mariem1994",
+	github: "@ Mariem1994",
     avatar: "./img/picture.png"
   },
   sections: [
@@ -24,7 +24,7 @@ var data = {
           score: 70
         },
         {
-          label: "Pentesting /Vulnerability Analysis",
+          label: "Pentesting",
           score: 85
         },
         {
@@ -44,11 +44,11 @@ var data = {
           score: 75
         },
         {
-          label: "Network Administration: CCNA[1-4],CCNP",
-          score: 90
+          label: "CCNA[1-4],CCNP",
+          score: 97
         },
         {
-          label: "C ",
+          label: "C",
           score: 65
         },
 		{
