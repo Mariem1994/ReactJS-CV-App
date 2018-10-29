@@ -2,8 +2,7 @@ var data = {
   header: {
     firstName: "Mariem",
     lastName: "CHEHAIMA",
-    dateofB: "24th-ap-1994",
-    placeofB: "Casablanca",
+    dateofB: "Graduate Cyber Security",
     email: "mariemchehaima@gmail.com",
     phone: "(+212) 06 37 59 97 81",
     address: "Hay Hassani bloc 2, Casablanca, MOROCCO, 20 230",
@@ -25,15 +24,15 @@ var data = {
           score: 70
         },
         {
-          label: "Pentesting",
+          label: "Pentesting /Vulnerability Analysis",
           score: 85
         },
         {
-          label: "Python ",
+          label: "Python",
           score: 65
         },
         {
-          label: "Linux/Unix",
+          label: "Windows/Linux/Unix Environement",
           score: 66
         },
         {
@@ -41,11 +40,11 @@ var data = {
           score: 60
         },
 		{
-          label: "Firewalls",
+          label: "Firewalls, IDS/IPS",
           score: 75
         },
         {
-          label: "Network Administration",
+          label: "Network Administration: CCNA[1-4],CCNP",
           score: 90
         },
         {
@@ -61,11 +60,11 @@ var data = {
           score: 95
         },
         {
-          label: "Electronics ",
+          label: "VPN/Proxy ",
           score: 60
         },
         {
-          label: "Telecommunications",
+          label: "VB.net",
           score: 85
         },
         {
@@ -113,12 +112,12 @@ var data = {
       content: [
         {
           title: "20-02-2018 to 20-08-2018 ",
-          description: "Graduate Technical Intern at System Engineering Laboratory at ENSA - Kénitra"
+          description: "Graduate Research Intern at System Engineering Laboratory at ENSA Kenitra"
         },
         {
           title: "28-09-2017 to 20-01-2018 ",
           description:
-            "Graduate Research Intern at ODTU - ANKARA Turkey"
+            "Graduate Technical Intern at ODTU ANKARA Turkey- "
         },
         {
           title: "18-04-2016 to 18-07-2016 ",
@@ -139,9 +138,13 @@ var data = {
       type: "proj",
       title: "PROJECTS",
       content: [
+	    {
+          title: "Penetration Testing Of Automotive Vehicle CAN Bus",
+          description: "CANoe,CANdb++, RTaW Simulator"
+        },
         {
-          title: "Project against internal and external attacks",
-          description: "Python 3, Logserver, Firewalls,Ubuntu,IDS IPS"
+          title: "Defender's Team: Project against internal and external attacks",
+          description: "Python 3,Authentication, Logserver, Firewalls,Ubuntu,IDS IPS"
         },
         {
           title: "Acceleration of DPDK packets on FreeBSD",
