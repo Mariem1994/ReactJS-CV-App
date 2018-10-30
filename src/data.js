@@ -2,12 +2,12 @@ var data = {
   header: {
     firstName: "Mariem",
     lastName: "CHEHAIMA",
-    dateofB: "24th-Apl-1994",
+    dateofB: "24-April-1994",
 	placeofB: "Settat",
     email: "mariemchehaima@gmail.com",
     phone: "(+212) 06 37 59 97 81",
     address: "Hay Hassani bloc 2, Casablanca, MOROCCO, 20 230",
-	github: "Mariem1994",
+	github: "mariem1994",
     avatar: "./img/picture.png"
   },
   sections: [
@@ -33,7 +33,7 @@ var data = {
           score: 65
         },
         {
-          label: "Windows/Linux/Unix Environement",
+          label: "Windows/Linux/Unix",
           score: 66
         },
         {
@@ -41,11 +41,11 @@ var data = {
           score: 60
         },
 		{
-          label: "Firewalls, IDS/IPS",
+          label: "Firewalls,IDS/IPS",
           score: 75
         },
         {
-          label: "CCNA[1-4],CCNP",
+          label: "CCNA[1,4],CCNP",
           score: 97
         },
         {
