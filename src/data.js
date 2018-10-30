@@ -2,11 +2,12 @@ var data = {
   header: {
     firstName: "Mariem",
     lastName: "CHEHAIMA",
-    dateofB: "24-04-1994 Settat",
+    dateofB: "24th-Apl-1994",
+	placeofB: "Settat",
     email: "mariemchehaima@gmail.com",
     phone: "(+212) 06 37 59 97 81",
     address: "Hay Hassani bloc 2, Casablanca, MOROCCO, 20 230",
-	github: "@ Mariem1994",
+	github: "Mariem1994",
     avatar: "./img/picture.png"
   },
   sections: [
